@@ -17,7 +17,7 @@ class VisitedPageView: UIView {
     var publicBase : UIView = UIView()
     
     var yPos : CGFloat = 0    
-    let headerBar : CGFloat = 40
+    let headerBar : CGFloat = 40.0
     
     func setNPerformanceViewBasics(){
         self.backgroundColor = .white
