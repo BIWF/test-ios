@@ -10,7 +10,6 @@ import Foundation
 import UIKit
 
 class VisitedPageView: UIView {
-    
     var scrollView : UIScrollView = UIScrollView()
     var cannedBase : UIView = UIView()
     var privateBase : UIView = UIView()
